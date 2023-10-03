@@ -1,0 +1,17 @@
+.Input-conteiner {
+    
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
+.Input-conteiner input:not([type=checkbox]) {
+    display: block;
+    margin: 20px;
+    margin-left: 20px;
+    height: 100%;
+    width: 100%;
+    padding: 12px;
+    padding-left: 5px;
+
+
+}

@@ -1,0 +1,11 @@
+.service-container{
+    border: solid rgb(77, 151, 176) 5px;
+    border-radius: 10px;
+}
+.button{
+    padding: 10px;
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    background-color: yellowgreen;
+    margin-bottom: 10px;
+}
